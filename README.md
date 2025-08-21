@@ -63,3 +63,25 @@ Or open the Jupyter notebook for experimentation:
 ## 📜 License
 
 This project is open-source and available under the MIT License.
+
+---
+
+---
+
+<h2 align="center">📬 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/azeema-khatoon-887858371/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:azeema.khatoon149@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">  
+  ✨ Made with ❤️ and ☕ by <b>Azeema Khatoon</b> ✨  
+</p>
+
