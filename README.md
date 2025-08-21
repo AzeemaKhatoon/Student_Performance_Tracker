@@ -19,7 +19,7 @@ It provides insights into how different factors affect academic results and help
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Student_Performance_Tracker.git
+   git clone https://github.com/AzeemaKhatoon/Student_Performance_Tracker.git
    cd Student_Performance_Tracker
 
 2. Install dependencies:
