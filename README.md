@@ -5,6 +5,12 @@ It provides insights into how different factors affect academic results and help
 
 ---
 
+## Live Demo
+
+👉 [Open the Streamlit App](https://student-performance-checker.streamlit.app/)
+
+---
+
 ## 📂 Project Structure
 - `Student_Performance_Application.ipynb` → Jupyter notebook for data analysis & model training  
 - `Student_app.py` → Python application (main script for running the tracker)  
