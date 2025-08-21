@@ -21,3 +21,45 @@ It provides insights into how different factors affect academic results and help
    ```bash
    git clone https://github.com/<your-username>/Student_Performance_Tracker.git
    cd Student_Performance_Tracker
+
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+---
+
+## Usage
+
+Run the application:
+   ```bash
+   python Student_app.py
+   ```
+
+Or open the Jupyter notebook for experimentation:
+   ```bash
+   jupyter notebook Student_Performance_Application.ipynb
+   ```
+
+---
+
+## 📊 Features
+
+- ✅ Predicts student performance based on input features
+- ✅ Visualizations to understand key performance factors
+- ✅ Easy-to-use Python application
+- ✅ Pre-trained ML model included
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Pandas, NumPy, Scikit-learn
+- Matplotlib / Seaborn
+- Joblib (for saving models)
+
+---
+
+## 📜 License
+
+This project is open-source and available under the MIT License.
